@@ -23,6 +23,7 @@ A simple **Phicoin wallet generator** with a GUI built using Python's Tkinter li
 2. **Install the Required Dependencies**:
    Ensure Python is installed, then install the required packages using:
    ```bash
+   sudo apt install python3-tk -y
    pip install ecdsa base58
    ```
 
